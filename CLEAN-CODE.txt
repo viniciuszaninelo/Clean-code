@@ -1,0 +1,24 @@
+CLEAN-CODE
+O que é ?
+É legibilidade, manutenção, previsibilidade e confiança
+
+
+Principios do código limpo:
+1 - Testes automatizados
+Sem testes automatizados, dificilmente você tera confiança no código que está escrevendo
+
+2 - Revisão 
+Se você trabalha em times e as pessoas não estão realizando revisão a cada nova adição, 
+então a chance do seu código não ser limpo é grande.
+
+3 - Refatoração
+Se você não tira tempo para refatorar seu código, então alguma coisa está errada. Ou você não está ficando melhor, não está aprendendo nada novo,
+ou você ta simplismente cuspindo features, funcionabilidade nova e que na maioria das vezes, não seram usadas pelos usúarios, cerca de 64% 
+e você não está preocupado com o que você escreveu anteriormente.
+
+4 - Simplicidade 
+Um dos Principios da programação: KISS -> Mantenha isso simples e idiota
+
+Só traga dificuldades para o seu código, caso haja necessidade e que seja benefico. Não tente trazer coisas que ninguém do seu time sabe.
+
+5 - Iterações curtas

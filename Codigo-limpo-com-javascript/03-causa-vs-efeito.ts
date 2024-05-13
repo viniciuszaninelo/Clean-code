@@ -1,0 +1,1 @@
+//! Nomear as váriaveis sempre pela CAUSA e não pelo EFEITO
