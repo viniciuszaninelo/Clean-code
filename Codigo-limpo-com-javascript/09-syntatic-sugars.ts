@@ -1,5 +1,5 @@
 //? syntatic-sugars
-//* São coisas expecíficas de alguma linguagem, por conta disso tente efitar usar.
+//* São coisas expecíficas de alguma linguagem, por conta disso tente evitar usar.
 
 
 const NumberInString = "123"
